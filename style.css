@@ -1,0 +1,13 @@
+body{
+    background-color: deepskyblue;
+}
+.muschi_fata_spate{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+
+}
+.muschi_fata_spate svg metadata g #g3613{
+    fill:white;
+}
